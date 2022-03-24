@@ -1,4 +1,4 @@
-    # import complex math module
+    # import complex math module for us
     import cmath
     a = float(input('Enter a: '))
     b = float(input('Enter b: '))
