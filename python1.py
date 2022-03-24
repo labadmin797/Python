@@ -1,4 +1,4 @@
-    # import complex math module for us to push changes to git hub
+    # import complex math module for us to push changes to git hub editing in github
     import cmath
     a = float(input('Enter a: '))
     b = float(input('Enter b: '))
